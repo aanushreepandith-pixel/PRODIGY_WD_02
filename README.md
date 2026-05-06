@@ -2,12 +2,12 @@ PRODIGY_WD_02
 
 ⏱️ Stopwatch Web Application - Task 02
 
-📝 Description
+📝 **Description**
 
 A beautiful and fully functional stopwatch web application. The application features precise time tracking with hours, minutes, seconds, and milliseconds, along with lap recording functionality and keyboard shortcuts for easy control.
 
 
-✨ Features
+✨ **Features**
 
 ✅ Start, pause, and resume timing functionality
 
@@ -30,7 +30,7 @@ A beautiful and fully functional stopwatch web application. The application feat
 ✅ Disabled button states for better UX
 
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
 HTML5 - Structure
 
@@ -39,19 +39,27 @@ CSS3 - Styling with gradients, animations, and effects
 JavaScript - Timer logic and interactivity
 
 
-🎨 Design Features
+🎨 **Design Features**
 
 Purple gradient background (#667eea to #764ba2)
 
 Glass-morphism container effect
 
 Smooth hover effects on buttons
+
 Color-coded buttons (Green, Orange, Red, Blue)
+
 Responsive design for mobile, tablet, and desktop
+
 Custom scrollbar for lap times list
+
 Clean monospace font for timer display
 
-⌨️ Keyboard Shortcuts
+
+⌨️ **Keyboard Shortcuts**
+
 SPACEBAR - Start/Pause the stopwatch
+
 R - Reset the stopwatch
+
 L - Record lap time
